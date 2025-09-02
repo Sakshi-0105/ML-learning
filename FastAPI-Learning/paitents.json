@@ -1,0 +1,6 @@
+{"P001": {"name": "Aarav Sharma", "age": 28, "city": "Mumbai"}, 
+"P002": {"name": "Saanvi Verma", "age": 34, "city": "Delhi"}, 
+"P003": {"name": "Rohan Mehta", "age": 45, "city": "Bangalore"},
+ "P004": {"name": "Anaya Singh", "age": 52, "city": "Hyderabad"}, 
+ "P005": {"name": "Kabir Joshi", "age": 39, "city": "Chennai"}, 
+ "P007": {"name": "mayank", "city": "sehore", "age": 20, "gender": "Male", "height": 5.2, "weight": 60.0, "bmi": 2.22, "verdict": "Underweight"}}
