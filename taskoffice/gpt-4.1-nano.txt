@@ -1,0 +1,15 @@
+P-4d5e6f7a-8b9c-0d1e-2f3a-456789012345, CA901234: Red Cotton T-Shirt, Unisex Graphic Tee, Casual Cotton T-Shirt, Red Cotton Graphic Tee, Unisex Casual T-Shirt
+P-6f7a8b9c-0d1e-2f3a-4b5c-678901234567, TO345678: Kids Spider-Man Action Figure, Marvel Action Figure, Spider-Man Toy Set, Kids Collectible Toy, Red Spider-Man Figure, Blue Spider-Man Toy, Plastic Action Figure, Kids Toy Set
+P-8b9c0d1e-2f3a-4b5c-6d7e-890123456789, BS678901: Organic Face Moisturizer, Sensitive Skin Cream, Hyaluronic Acid Moisturizer, Paraben-Free Cream, Daily Use Moisturizer
+P-2b3c4d5e-6f7a-8b9c-0d1e-234567890123, FW789012: Women's Adidas Running Shoes, Ultraboost 22, Blue Running Shoes, Grey Running Shoes, Cushioned Midsole, Rubber Sole, Lace-Up Shoes
+P-7a8b9c0d-1e2f-3a4b-5c6d-789012345678, HM012345: Stainless Steel Blender, Glass Jar Blender, KitchenAid Blender, Silver Blender, High-Speed Blades, Dishwasher Safe Blender, Glass Jar Blender, Stainless Steel Blender
+P-9c0d1e2f-3a4b-5c6d-7e8f-901234567890, BK234567: Thriller Novel, Silent Patient, Paperback Thriller, Bestseller Novel, Fiction Book, 300 Pages Book, Penguin Random House, Fiction Paperback
+P-5e6f7a8b-9c0d-1e2f-3a4b-567890123456, AC567890: Black Sunglasses, Tortoise Sunglasses, Polarized Sunglasses, UV Protection Sunglasses, Ray-Ban Sunglasses, Classic Wayfarer, Black Polarized Sunglasses, Tortoise UV Protection
+P-3c4d5e6f-7a8b-9c0d-1e2f-345678901234, EL456789: Bose Headphones, Noise-Cancelling Headphones, Wireless Headphones, Bluetooth Headphones, Black Headphones, Bose Wireless Headphones, Noise-Cancelling Headphones Black, Bluetooth Headphones USB-C, Wireless Headphones Up to 24h
+P-1a2b3c4d-5e6f-7a8b-9c0d-123456789012, SP123456: Black Nike T-Shirt, White Nike T-Shirt, Men's Running T-Shirt, Breathable Mesh T-Shirt, Polyester Running T-Shirt, Black Activewear T-Shirt, White Activewear T-Shirt
+P-0d1e2f3a-4b5c-6d7e-8f9a-012345678901, SE890123: Wilson Tennis Racket, Pro Staff Racket, Tennis Equipment, Graphite Frame, Professional Grade Racket, Black Tennis Racket, Red Tennis Racket, Strung Tennis Racket
+P-4b5c6d7e-8f9a-0b1c-2d3e-456789012345, MK234567: Nude Lipstick, Matte Liquid Lipstick, Long-Lasting Lipstick, Transfer-Proof Lipstick, Cruelty-Free Lipstick, Nude Makeup, Matte Lipstick, MAC Lipstick
+P-1e2f3a4b-5c6d-7e8f-9a0b-123456789012, EL456789: Samsung Galaxy S25 Ultra, Smartphone with 512GB Storage, Phantom Black Smartphone, 5G Enabled Smartphone, Triple Camera Smartphone, Wireless Charging Smartphone, Samsung Smartphone, Electronics Smartphone
+P-3a4b5c6d-7e8f-9a0b-1c2d-345678901234, HM678901: Oak Coffee Table, Wooden Coffee Table, Coffee Table with Storage, Solid Wood Coffee Table, Modern Coffee Table, Assembly Required Coffee Table, Oak Wood Coffee Table
+P-2f3a4b5c-6d7e-8f9a-0b1c-234567890123, AP012345: Floral Maxi Dress, Summer Dress, Cotton Maxi Dress, Women's Dress, Floral Print Dress, Cotton Blend Dress, Midi Length Dress
+P-5c6d7e8f-9a0b-1c2d-3e4f-567890123456, JW890123: Silver Hoop Earrings, Gemstone Accents, Sterling Silver Earrings, Hypoallergenic Earrings, 14k Gold Plated Earrings, Silver Jewelry, Tiffany Jewelry

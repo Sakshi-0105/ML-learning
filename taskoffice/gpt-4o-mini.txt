@@ -1,0 +1,15 @@
+P-5e6f7a8b-9c0d-1e2f-3a4b-567890123456, AC567890: Black Sunglasses, Tortoise Sunglasses, Classic Wayfarer, Polarized Sunglasses, UV Protection Sunglasses, Ray-Ban Sunglasses, Wayfarer Sunglasses, Accessories Sunglasses
+P-0d1e2f3a-4b5c-6d7e-8f9a-012345678901, SE890123: Pro Staff Racket, Tennis Racket, Advanced Players Racket, Black Tennis Racket, Red Tennis Racket, Graphite Frame Racket, Professional Grade Racket, Tennis Equipment Racket
+P-7a8b9c0d-1e2f-3a4b-5c6d-789012345678, HM012345: Stainless Steel Blender, Glass Jar Blender, High-Speed Blender, Silver Blender, KitchenAid Blender, Dishwasher Safe Blender, Kitchen Appliances Blender
+P-9c0d1e2f-3a4b-5c6d-7e8f-901234567890, BK234567: Thriller Novel, Silent Patient, Paperback Bestseller, Fiction Book, 300 Pages Book, Penguin Random House Novel
+P-4d5e6f7a-8b9c-0d1e-2f3a-456789012345, CA901234: Red T-Shirt, Graphic T-Shirt, Cotton T-Shirt, Unisex Graphic Tee, Casual Cotton Tee, Unisex Red T-Shirt
+P-3c4d5e6f-7a8b-9c0d-1e2f-345678901234, EL456789: QuietComfort Headphones, Wireless Headphones, Noise-Cancelling Headphones, Black Headphones, Bluetooth Headphones, Bose Audio Accessories, USB-C Charging Headphones, 24h Battery Headphones
+P-2b3c4d5e-6f7a-8b9c-0d1e-234567890123, FW789012: Blue Running Shoes, Adidas Ultraboost, Women's Running Shoes, Lace-Up Shoes, Grey Running Shoes, Women's Footwear, Cushioned Midsole Shoes, Rubber Sole Shoes
+P-8b9c0d1e-2f3a-4b5c-6d7e-890123456789, BS678901: Organic Moisturizer, Face Cream, Sensitive Skin Cream, Daily Use Moisturizer, Paraben-Free Cream, Hyaluronic Acid Moisturizer, Skincare Cream
+P-1a2b3c4d-5e6f-7a8b-9c0d-123456789012, SP123456: Black T-Shirt, Nike Running T-Shirt, Dri-FIT T-Shirt, Short Sleeve T-Shirt, Men's Activewear, Breathable Mesh T-Shirt, Black Nike T-Shirt, White Nike T-Shirt, Polyester T-Shirt, Men's Running T-Shirt
+P-6f7a8b9c-0d1e-2f3a-4b5c-678901234567, TO345678: Spider-Man Action Figure, Kids Action Figure, Marvel Action Figure, Red Spider-Man Figure, Blue Spider-Man Figure, Collectible Action Figure, Kids Marvel Toys, Plastic Action Figure
+P-2f3a4b5c-6d7e-8f9a-0b1c-234567890123, AP012345: Floral Maxi Dress, Summer Maxi Dress, Cotton Maxi Dress, Women's Floral Dress, Midi Length Dress, Cotton Blend Dress, Women's Summer Dress
+P-5c6d7e8f-9a0b-1c2d-3e4f-567890123456, JW890123: Silver Hoop Earrings, Gemstone Accents, Sterling Silver Earrings, Hypoallergenic Jewelry, 14k Gold Plated Earrings, Accessories Jewelry
+P-1e2f3a4b-5c6d-7e8f-9a0b-123456789012, EL456789: Galaxy S25 Ultra, Phantom Black Smartphone, 512GB Storage, 5G Smartphone, Wireless Charging Phone, Triple Camera Smartphone, Samsung Galaxy Smartphone
+P-4b5c6d7e-8f9a-0b1c-2d3e-456789012345, MK234567: Matte Lipstick, Nude Lipstick, Long-Lasting Lipstick, Transfer-Proof Lipstick, Cruelty-Free Lipstick, Nude Shade Lipstick, Beauty Makeup, Makeup Lipstick
+P-3a4b5c6d-7e8f-9a0b-1c2d-345678901234, HM678901: Coffee Table, Wooden Coffee Table, Storage Shelf Table, Oak Wood Table, Solid Wood Furniture, Modern Design Table, Furniture with Storage, Home Furniture

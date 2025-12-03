@@ -1,0 +1,5 @@
+fastenv/
+qdrantDB/newenv/
+qdrantDB/qdrant_storage/
+langchainLearning/venv/
+task/taskenv/

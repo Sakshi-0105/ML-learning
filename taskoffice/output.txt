@@ -1,0 +1,15 @@
+P-4d5e6f7a-8b9c-0d1e-2f3a-456789012345, CA901234: Red T-Shirt, Graphic T-Shirt, Cotton T-Shirt, Unisex Graphic Tee, Casual Clothing T-Shirt, Unisex Red T-Shirt
+P-4d5e6f7a-8b9c-0d1e-2f3a-456789012345, CA901234: Red T-Shirt, Graphic T-Shirt, Cotton T-Shirt, Unisex Graphic Tee, Casual Clothing T-Shirt, Unisex Red T-Shirt
+P-4d5e6f7a-8b9c-0d1e-2f3a-456789012345, CA901234: Red T-Shirt, Graphic T-Shirt, Cotton T-Shirt, Unisex Graphic Tee, Casual Clothing T-Shirt, Unisex Red T-Shirt
+P-3c4d5e6f-7a8b-9c0d-1e2f-345678901234, EL456789: QuietComfort Headphones, Wireless Headphones, Noise-Cancelling Headphones, Black Headphones, Bluetooth Headphones, Bose Audio Accessories, USB-C Charging Headphones, 24h Battery Headphones
+P-3c4d5e6f-7a8b-9c0d-1e2f-345678901234, EL456789: QuietComfort Headphones, Wireless Headphones, Noise-Cancelling Headphones, Black Headphones, Bluetooth Headphones, Bose Audio Accessories, USB-C Charging Headphones, 24h Battery Headphones
+P-3c4d5e6f-7a8b-9c0d-1e2f-345678901234, EL456789: QuietComfort Headphones, Wireless Headphones, Noise-Cancelling Headphones, Black Headphones, Bluetooth Headphones, Bose Audio Accessories, USB-C Charging Headphones, 24h Battery Headphones
+P-1a2b3c4d-5e6f-7a8b-9c0d-123456789012, SP123456: Black T-Shirt, Nike Running T-Shirt, Dri-FIT T-Shirt, Men's Activewear, Black Running Shirt, White Running T-Shirt, Breathable Mesh T-Shirt, Polyester Running Shirt
+P-1a2b3c4d-5e6f-7a8b-9c0d-123456789012, SP123456: Black T-Shirt, Nike Running Shirt, Dri-FIT T-Shirt, Men's Activewear, Breathable Mesh Shirt, Black Running T-Shirt, White Running T-Shirt, Men's Dri-FIT Shirt
+P-1a2b3c4d-5e6f-7a8b-9c0d-123456789012, SP123456: Black T-Shirt, Nike Running T-Shirt, Dri-FIT T-Shirt, Men's Activewear, Black Nike T-Shirt, Short Sleeve T-Shirt, Breathable Mesh T-Shirt, Polyester Running T-Shirt, White T-Shirt, Men's Running T-Shirt
+P-2b3c4d5e-6f7a-8b9c-0d1e-234567890123, FW789012: Blue Running Shoes, Adidas Ultraboost, Women's Running Shoes, Lace-Up Shoes, Cushioned Midsole Shoes, Grey Running Shoes, Women's Footwear, Ultraboost 22 Shoes
+P-2b3c4d5e-6f7a-8b9c-0d1e-234567890123, FW789012: Blue Running Shoes, Adidas Ultraboost, Women's Running Shoes, Lace-Up Shoes, Cushioned Midsole Shoes, Grey Running Shoes, Women's Footwear, Ultraboost 22 Shoes
+P-2b3c4d5e-6f7a-8b9c-0d1e-234567890123, FW789012: Blue Running Shoes, Adidas Ultraboost, Women's Running Shoes, Lace-Up Shoes, Cushioned Midsole Shoes, Grey Running Shoes, Women's Footwear, Ultraboost 22 Shoes
+P-5e6f7a8b-9c0d-1e2f-3a4b-567890123456, AC567890: Black Sunglasses, Tortoise Sunglasses, Classic Wayfarer, Polarized Sunglasses, UV Protection Sunglasses, Wayfarer Sunglasses, Ray-Ban Sunglasses, Accessories Sunglasses
+P-5e6f7a8b-9c0d-1e2f-3a4b-567890123456, AC567890: Black Sunglasses, Tortoise Sunglasses, Classic Wayfarer, Polarized Sunglasses, UV Protection Sunglasses, Ray-Ban Wayfarer, Black Wayfarer, Tortoise Wayfarer
+P-5e6f7a8b-9c0d-1e2f-3a4b-567890123456, AC567890: Black Sunglasses, Tortoise Sunglasses, Classic Wayfarer, Polarized Sunglasses, UV Protection Sunglasses, Wayfarer Sunglasses, Ray-Ban Sunglasses, Accessories Sunglasses
